@@ -1,7 +1,7 @@
 # Heart-Diseases-Predictor
 This repository contains a logistic regression model built to predict the likelihood of a person developing heart disease within the next 10 years.The model is trained using a dataset with specific features that are considered most important for predicting heart disease risk. These features are:
 
-age: Age of the individual
+age: Age of the individual \n
 cigsPerDay: Number of cigarettes smoked per day
 totChol: Total cholesterol level
 sysBP: Systolic blood pressure
